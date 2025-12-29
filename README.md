@@ -35,3 +35,6 @@
   <img src="https://img.shields.io/badge/Jira-0053CC?style=flat-square&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
+
+<!-- solved.ac 프로필 -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/ysa8497)
