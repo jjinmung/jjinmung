@@ -37,4 +37,4 @@
 </p>
 
 <!-- solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/ysa8497)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=as62291)](https://solved.ac/as62291)
